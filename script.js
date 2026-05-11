@@ -310,67 +310,67 @@ const floorData = {
             </g>
 
 
-            <g class="room-group" data-side="B" data-room="201">
+            <g class="room-group" data-side="В" data-room="201">
                 <path class="hitbox" d="m 1898.8304,3594.7368 117.5439,-0.5847 v 150.2924 l -118.7135,2.3391 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="202">
+            <g class="room-group" data-side="В" data-room="202">
                 <path class="hitbox" d="m 2165.4971,3595.3216 281.8713,1.1696 2.3392,186.5497 -285.3801,0.5848 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="203">
+            <g class="room-group" data-side="В" data-room="203">
                 <path class="hitbox" d="m 2454.9708,3595.9064 285.9649,-0.5848 0.5848,188.3041 -288.3041,0.5848 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="204">
+            <g class="room-group" data-side="В" data-room="204">
                 <path class="hitbox" d="m 2746.1988,3594.7368 286.5497,1.1696 1.1696,187.1345 -288.3041,0.5848 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="205">
+            <g class="room-group" data-side="В" data-room="205">
                 <path class="hitbox" d="m 3039.1813,3594.7368 299.4152,1.7544 v 188.3041 h -300 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="206">
+            <g class="room-group" data-side="В" data-room="206">
                 <path class="hitbox" d="m 3345.0292,3595.3216 342.6901,-0.5848 0.5848,187.7193 -345.614,1.7544 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="207">
+            <g class="room-group" data-side="В" data-room="207">
                 <path class="hitbox" d="m 3463.7427,3073.6842 225.1462,1.1696 1.1696,302.924 -226.3158,2.924 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="208">
+            <g class="room-group" data-side="В" data-room="208">
                 <path class="hitbox" d="m 3464.3275,2768.4211 223.9766,1.1695 -0.5848,296.4913 -224.5614,1.1696 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="209">
+            <g class="room-group" data-side="В" data-room="209">
                 <path class="hitbox" d="m 3463.7427,2480.7018 223.9766,1.1695 v 279.5322 h -225.1462 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="210">
+            <g class="room-group" data-side="В" data-room="210">
                 <path class="hitbox" d="m 3048.538,2345.0292 210.5263,1.1696 1.7544,280.7018 -212.8655,0.5848 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="211">
+            <g class="room-group" data-side="В" data-room="211">
                 <path class="hitbox" d="m 3048.538,2633.9181 h 211.1111 l 0.5848,269.0059 -212.2807,0.5848 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="212">
+            <g class="room-group" data-side="В" data-room="212">
                 <path class="hitbox" d="m 3049.2429,2910.3027 210.0645,1.654 0.827,467.2694 h -212.5455 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="213">
+            <g class="room-group" data-side="В" data-room="213">
                 <path class="hitbox" d="m 2293.5673,3191.2281 316.959,-1.1696 v 194.7368 h -317.5438 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="214">
+            <g class="room-group" data-side="В" data-room="214">
                 <path class="hitbox" d="m 2155.5556,3190.6433 130.9941,0.5848 2.3392,192.9824 -132.7485,0.5848 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="215">
+            <g class="room-group" data-side="В" data-room="215">
                 <path class="hitbox" d="m 2082.4502,3274.6074 h 66.989 l 1.2406,109.5809 -68.6432,1.2405 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="216">
+            <g class="room-group" data-side="В" data-room="216">
                 <path class="hitbox" d="m 2023.3918,3274.269 54.386,0.5848 v 109.3567 l -54.9708,0.5848 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="216">
+            <g class="room-group" data-side="В" data-room="216">
                 <path class="hitbox" d="m 2023.3918,3274.269 54.386,0.5848 v 109.3567 l -54.9708,0.5848 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="217">
+            <g class="room-group" data-side="В" data-room="217">
                 <path class="hitbox" d="m 1897.61,3274.1939 119.9187,0.827 v 110.4079 l -119.9187,-0.4135 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="218">
+            <g class="room-group" data-side="В" data-room="218">
                 <path class="hitbox" d="m 1898.8505,2797.0002 256.3779,2.481 -0.827,384.5669 -256.3779,1.654 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="219">
+            <g class="room-group" data-side="В" data-room="219">
                 <path class="hitbox" d="m 1897.1964,2432.2819 258.032,0.8271 0.827,358.929 -258.859,-0.827 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="220">
+            <g class="room-group" data-side="В" data-room="220">
                 <path class="hitbox" d="m 1898.0235,2345.0307 97.589,-0.4135 v 81.462 l -98.0025,1.2406 z" />
             </g>
 
@@ -511,52 +511,52 @@ const floorData = {
             </g>
 
 
-            <g class="room-group" data-side="B" data-room="301">
+            <g class="room-group" data-side="В" data-room="301">
                 <path class="hitbox" d="m 1898.0235,3594.2527 119.0916,0.827 -0.827,152.1727 -119.0917,-0.4135 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="302">
+            <g class="room-group" data-side="В" data-room="302">
                 <path class="hitbox" d="m 2164.3257,3594.6662 265.8887,-0.4135 0.827,188.5618 -266.3022,2.0676 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="303">
+            <g class="room-group" data-side="В" data-room="303">
                 <path class="hitbox" d="m 2436.0035,3594.6662 h 90.9728 l 0.8271,189.3889 -91.7999,0.4135 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="304">
+            <g class="room-group" data-side="В" data-room="304">
                 <path class="hitbox" d="m 2533.179,3594.6662 432.5344,0.8271 -0.8271,188.5618 -433.3613,0.827 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="305">
+            <g class="room-group" data-side="В" data-room="305">
                 <path class="hitbox" d="m 2970.262,3593.8392 398.2128,1.2405 0.4135,188.9754 -399.0398,1.2405 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="306">
+            <g class="room-group" data-side="В" data-room="306">
                 <path class="hitbox" d="m 3374.6775,3594.2527 314.6832,0.827 0.4135,190.2159 -316.3373,-1.2405 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="307">
+            <g class="room-group" data-side="В" data-room="307">
                 <path class="hitbox" d="m 3463.7427,3040.3509 223.9766,0.5848 1.7544,339.1813 h -226.9006 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="308">
+            <g class="room-group" data-side="В" data-room="308">
                 <path class="hitbox" d="m 3464.3275,2651.462 224.5614,0.5848 0.5848,381.2865 -225.731,1.1696 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="309">
+            <g class="room-group" data-side="В" data-room="309">
                 <path class="hitbox" d="m 3463.7427,2345.0292 224.5614,0.5848 0.5848,301.1696 -226.3158,-1.1696 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="310">
+            <g class="room-group" data-side="В" data-room="310">
                 <path class="hitbox" d="m 3047.3684,2465.4971 211.6959,0.5848 -0.5848,442.1052 -211.1111,1.1696 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="311">
+            <g class="room-group" data-side="В" data-room="311">
                 <path class="hitbox" d="m 3048.0024,2913.1972 212.132,0.8271 -0.4135,318.8183 h -211.305 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="313">
+            <g class="room-group" data-side="В" data-room="313">
                 <path class="hitbox" d="m 2307.8146,3190.2508 303.1048,0.827 -0.4135,192.6969 -303.5183,0.8271 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="314">
+            <g class="room-group" data-side="В" data-room="314">
                 <path class="hitbox" d="m 2082.0366,3190.2508 220.4023,-0.4135 0.4135,195.178 h -281.1886 l 1.2405,-110.4079 58.3053,0.4135 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="315">
+            <g class="room-group" data-side="В" data-room="315">
                 <path class="hitbox" d="m 1899.4152,2534.5029 254.9708,1.1696 v 647.9532 l -254.9708,-1.1696 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="316">
+            <g class="room-group" data-side="В" data-room="316">
                 <path class="hitbox" d="m 2000.5746,2345.4443 152.9997,1.654 v 180.2916 l -255.5508,-0.8271 0.827,-114.9565 102.5512,-0.827 z" />
             </g>
-            <g class="room-group" data-side="B" data-room="317">
+            <g class="room-group" data-side="В" data-room="317">
                 <path class="hitbox" d="m 1897.6608,2344.7368 97.6608,0.2924 0.8772,61.1112 h -98.538 z" />
             </g>
 
