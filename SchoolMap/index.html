@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Интерактивная карта школы</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <section id="home" class="screen">
+        <div class="intro">
+            <h1>Интерактивный план школы</h1>
+            <p>Добро пожаловать! Выберите нужный этаж, чтобы узнать информацию о кабинетах и учителях.</p>
+            <a href="#map-section" class="btn">Начать просмотр</a>
+        </div>
+    </section>
+
+    <section id="map-section" class="screen">
+        <div class="controls">
+            <div class="search-box">
+                <select id="search-side">
+                    <option value="">Часть света</option>
+                    <option value="С">Север (С)</option>
+                    <option value="В">Восток (В)</option>
+                    <option value="Ю">Юг (Ю)</option>
+                    <option value="З">Запад (З)</option>
+                </select>
+                <input type="text" id="search-input" placeholder="Номер кабинета">
+                <button onclick="findRoom()">Найти</button>
+            </div>
+
+            <div class="floor-nav">
+                <button onclick="changeFloor(1)" id="btn-f1">1 Этаж</button>
+                <button onclick="changeFloor(2)" id="btn-f2">2 Этаж</button>
+                <button onclick="changeFloor(3)" id="btn-f3">3 Этаж</button>
+            </div>
+        </div>
+
+        <div class="main-layout">
+            <div class="map-wrapper">
+                <img src="Images/1_floor.jpeg" id="floor-img" alt="План школы">
+                <svg id="map-svg" viewBox="0 0 8000 8000" preserveAspectRatio="none">
+                    <g id="svg-content"></g>
+                </svg>
+            </div>
+            
+
+            <div id="info-panel" class="info-panel">
+                <h3>Информация</h3>
+                <div id="info-text">Наведите курсор на кабинет, чтобы увидеть детали</div>
+            </div>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
